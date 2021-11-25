@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Nov 24 15:40:08 IST 2021","Wed Nov 24 15:40:13 IST 2021","5408","","Xornet browser title check","","Xornet browser title check","should have the right title","should have the right title",""
+"passed","Wed Nov 24 15:40:30 IST 2021","Wed Nov 24 15:40:36 IST 2021","6206","","Xornet browser Tests","","Xornet browser Tests","should have xornet logo on landing page","should have xornet logo on landing page",""
+"passed","Wed Nov 24 15:40:16 IST 2021","Wed Nov 24 15:40:25 IST 2021","9314","","Xornet browser Tests","","Xornet browser Tests","Xornet login with valid cred","Xornet login with valid cred",""

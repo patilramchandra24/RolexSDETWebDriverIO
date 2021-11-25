@@ -1,0 +1,143 @@
+{
+  "uid" : "74953639f09384ce",
+  "name" : "should have xornet logo on landing page",
+  "fullName" : "Xornet browser Tests.should have xornet logo on landing page",
+  "historyId" : "44c9e1f3e4914c4169c72795166217f0",
+  "time" : {
+    "start" : 1637748630152,
+    "stop" : 1637748636358,
+    "duration" : 6206
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1637748630156,
+        "stop" : 1637748636246,
+        "duration" : 6090
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "adcd6e8dc450ccec",
+        "name" : "Request",
+        "source" : "adcd6e8dc450ccec.json",
+        "type" : "application/json",
+        "size" : 42
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1637748636249,
+        "stop" : 1637748636294,
+        "duration" : 45
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "83394f211e8ae28e",
+        "name" : "Request",
+        "source" : "83394f211e8ae28e.json",
+        "type" : "application/json",
+        "size" : 51
+      }, {
+        "uid" : "c2ede24d1b56ce17",
+        "name" : "Response",
+        "source" : "c2ede24d1b56ce17.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1637748636309,
+        "stop" : 1637748636355,
+        "duration" : 46
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "50991585da6b1cf4",
+        "name" : "Request",
+        "source" : "50991585da6b1cf4.json",
+        "type" : "application/json",
+        "size" : 8337
+      }, {
+        "uid" : "cd29302c13dd0191",
+        "name" : "Response",
+        "source" : "cd29302c13dd0191.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Xornet browser Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "Xornet browser Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have xornet logo on landing page"
+  }, {
+    "name" : "package",
+    "value" : "Xornet browser Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74953639f09384ce.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

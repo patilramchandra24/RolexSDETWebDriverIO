@@ -1,0 +1,44 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should have the right title",
+    "uid" : "8596ad7043a9115c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637748608016,
+      "stop" : 1637748613424,
+      "duration" : 5408
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.45" ]
+  }, {
+    "name" : "Xornet login with valid cred",
+    "uid" : "430dd9bf092d2b77",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637748616521,
+      "stop" : 1637748625835,
+      "duration" : 9314
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.45" ]
+  }, {
+    "name" : "should have xornet logo on landing page",
+    "uid" : "74953639f09384ce",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1637748630152,
+      "stop" : 1637748636358,
+      "duration" : 6206
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-96.0.4664.45" ]
+  } ]
+}

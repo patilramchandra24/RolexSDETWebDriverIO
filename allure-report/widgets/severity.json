@@ -1,0 +1,31 @@
+[ {
+  "uid" : "74953639f09384ce",
+  "name" : "should have xornet logo on landing page",
+  "time" : {
+    "start" : 1637748630152,
+    "stop" : 1637748636358,
+    "duration" : 6206
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8596ad7043a9115c",
+  "name" : "should have the right title",
+  "time" : {
+    "start" : 1637748608016,
+    "stop" : 1637748613424,
+    "duration" : 5408
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "430dd9bf092d2b77",
+  "name" : "Xornet login with valid cred",
+  "time" : {
+    "start" : 1637748616521,
+    "stop" : 1637748625835,
+    "duration" : 9314
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

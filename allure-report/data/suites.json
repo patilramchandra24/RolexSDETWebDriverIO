@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Xornet browser title check",
+    "children" : [ {
+      "name" : "should have the right title",
+      "uid" : "8596ad7043a9115c",
+      "parentUid" : "22d5846d89893b35294c8ea2b143a40c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637748608016,
+        "stop" : 1637748613424,
+        "duration" : 5408
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    } ],
+    "uid" : "22d5846d89893b35294c8ea2b143a40c"
+  }, {
+    "name" : "Xornet browser Tests",
+    "children" : [ {
+      "name" : "Xornet login with valid cred",
+      "uid" : "430dd9bf092d2b77",
+      "parentUid" : "a517d5d51217b02e3b1bed1eb6dee0b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637748616521,
+        "stop" : 1637748625835,
+        "duration" : 9314
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    }, {
+      "name" : "should have xornet logo on landing page",
+      "uid" : "74953639f09384ce",
+      "parentUid" : "a517d5d51217b02e3b1bed1eb6dee0b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637748630152,
+        "stop" : 1637748636358,
+        "duration" : 6206
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-96.0.4664.45" ]
+    } ],
+    "uid" : "a517d5d51217b02e3b1bed1eb6dee0b6"
+  } ]
+}
